@@ -21,7 +21,7 @@ st.write(
     This Streamlit app uses the free and open source [PyGWalker](https://github.com/Kanaries/pygwalker) Python library, which allows you to explore a pandas `DataFrame` 
     with interactive Tableau-style data visualisations.
 
-    To select a dashboard, click **Visualization**, then select the dashboard you want: a **Map** of terrorism incidents, or a **Time** bar chart showing incidents by year.
+    To select a dashboard, click **Visualization**, then select the dashboard you want: a **Map** of terrorism incidents, **Year vs Region (Bar Plot)**, or **Year vs Region (Faceted)** showing incidents by year.
 
     To customise the plots yourself, you can drag and drop fields and measurements from the left-hand columns to explore the dataset, or click **+ New** to create your own dashboard.
 
