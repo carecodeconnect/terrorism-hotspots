@@ -2,6 +2,8 @@
 
 Interactive data visualisation app mapping and visualising terrorist incidents from the [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/).
 
+[terrorism-hotspots.webm](https://github.com/user-attachments/assets/22cf7f97-cc3a-48ed-8301-18df3c3fffac)
+
 ## Data
 
 The GTD is an open-source database including information on terrorist attacks around the world from 1970 through 2017. It includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 180,000 attacks. 
